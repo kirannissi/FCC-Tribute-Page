@@ -1,3 +1,31 @@
 body {
   font-family: 'Roboto', sans-serif;
+  background-color: #fff;
+}
+
+#title {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+#image {
+  max-width: 80%;
+  max-height: 800px;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+
+#tribute-info {
+    max-width: 80%;
+    display: block;
+    height: auto;
+    margin: auto;
 }
