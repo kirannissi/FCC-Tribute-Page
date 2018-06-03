@@ -1,6 +1,9 @@
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: #fff;
+  background-color: #E9F1DF;
+}
+
+main {
 }
 
 #title {
@@ -28,4 +31,14 @@ p {
     display: block;
     height: auto;
     margin: auto;
+    background-color: white;
+    padding: 10px;
+}
+
+#title {
+  text-transform: uppercase;
+}
+
+#image-caption {
+
 }
